@@ -1,5 +1,7 @@
 # POA-Blockchain-Creation
 
+## Below is a how to guide on creating your very own Proof of Authority Blockchain Network
+
 ## Step 1: Download necessary software 
   - Download MyCrypto and create and account
   - Download Geth and save files to a folder on your desktop 
